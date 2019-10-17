@@ -1,2 +1,2 @@
-Produto-OK
-Produto-Defeituoso
+OK
+Defeituoso
